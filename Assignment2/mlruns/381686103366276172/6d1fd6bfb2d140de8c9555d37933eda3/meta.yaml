@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shoru/Desktop/AML_git/Applied-Machine-Learning/Assignment2/mlruns/381686103366276172/6d1fd6bfb2d140de8c9555d37933eda3/artifacts
+end_time: 1741111330677
+entry_point_name: ''
+experiment_id: '381686103366276172'
+lifecycle_stage: active
+run_id: 6d1fd6bfb2d140de8c9555d37933eda3
+run_name: Random Forest
+run_uuid: 6d1fd6bfb2d140de8c9555d37933eda3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741111328150
+status: 3
+tags: []
+user_id: shoru

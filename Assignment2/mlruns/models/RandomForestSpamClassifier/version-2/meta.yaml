@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741110389348
+current_stage: None
+description: null
+last_updated_timestamp: 1741110389348
+name: RandomForestSpamClassifier
+run_id: d2d201106281428ea1d739a7d5905800
+run_link: null
+source: file:///Users/shoru/Desktop/AML_git/Applied-Machine-Learning/Assignment2/mlruns/381686103366276172/d2d201106281428ea1d739a7d5905800/artifacts/random_forest_model
+status: READY
+status_message: null
+storage_location: file:///Users/shoru/Desktop/AML_git/Applied-Machine-Learning/Assignment2/mlruns/381686103366276172/d2d201106281428ea1d739a7d5905800/artifacts/random_forest_model
+user_id: null
+version: 2

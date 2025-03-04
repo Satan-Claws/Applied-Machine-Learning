@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741110390537
+current_stage: None
+description: null
+last_updated_timestamp: 1741110390537
+name: NaiveBayesSpamClassifier
+run_id: 0424c4cec49a48ae845835b59abe3ce5
+run_link: null
+source: file:///Users/shoru/Desktop/AML_git/Applied-Machine-Learning/Assignment2/mlruns/381686103366276172/0424c4cec49a48ae845835b59abe3ce5/artifacts/naive_bayes_model
+status: READY
+status_message: null
+storage_location: file:///Users/shoru/Desktop/AML_git/Applied-Machine-Learning/Assignment2/mlruns/381686103366276172/0424c4cec49a48ae845835b59abe3ce5/artifacts/naive_bayes_model
+user_id: null
+version: 2

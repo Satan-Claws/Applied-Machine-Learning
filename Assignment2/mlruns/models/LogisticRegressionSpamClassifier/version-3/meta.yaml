@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741111328128
+current_stage: None
+description: null
+last_updated_timestamp: 1741111328128
+name: LogisticRegressionSpamClassifier
+run_id: d8f176c66aa74efb922913193192a87f
+run_link: null
+source: file:///Users/shoru/Desktop/AML_git/Applied-Machine-Learning/Assignment2/mlruns/381686103366276172/d8f176c66aa74efb922913193192a87f/artifacts/logistic_regression_model
+status: READY
+status_message: null
+storage_location: file:///Users/shoru/Desktop/AML_git/Applied-Machine-Learning/Assignment2/mlruns/381686103366276172/d8f176c66aa74efb922913193192a87f/artifacts/logistic_regression_model
+user_id: null
+version: 3

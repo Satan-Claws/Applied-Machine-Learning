@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shoru/Desktop/AML_git/Applied-Machine-Learning/Assignment2/mlruns/381686103366276172/ea54a789af6b463ea7b2a24a3a162453/artifacts
+end_time: 1741110317906
+entry_point_name: ''
+experiment_id: '381686103366276172'
+lifecycle_stage: active
+run_id: ea54a789af6b463ea7b2a24a3a162453
+run_name: Logistic Regression
+run_uuid: ea54a789af6b463ea7b2a24a3a162453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741110315452
+status: 3
+tags: []
+user_id: shoru

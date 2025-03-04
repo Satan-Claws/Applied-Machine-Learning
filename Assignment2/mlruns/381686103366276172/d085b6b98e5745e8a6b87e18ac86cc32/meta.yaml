@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shoru/Desktop/AML_git/Applied-Machine-Learning/Assignment2/mlruns/381686103366276172/d085b6b98e5745e8a6b87e18ac86cc32/artifacts
+end_time: 1741111331919
+entry_point_name: ''
+experiment_id: '381686103366276172'
+lifecycle_stage: active
+run_id: d085b6b98e5745e8a6b87e18ac86cc32
+run_name: Naive Bayes
+run_uuid: d085b6b98e5745e8a6b87e18ac86cc32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741111330678
+status: 3
+tags: []
+user_id: shoru
